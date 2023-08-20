@@ -10,9 +10,6 @@ This C++ program demonstrates the implementation of a priority queue and a file 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
